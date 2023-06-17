@@ -47,7 +47,7 @@ displayResults =(weather)=>{
 
 function dateBuilder(s){
     let months=['Yanvar','Febrar','Mart','Aprel','May','Iyun','Iyul','Avgust','Sentyabr','Oktyabr','Noyabr','Dekabr']
-    let days=['Yakshanba','Dushanba','Seshanba','Chorshanba','Payshanba','Juma','Shanba']
+    let days=['Yakshanba','Dushanba','Seshanba','Chorshaxxnba','Payshanba','Juma','Shanba']
 
     let day=days[s.getDay()];
     let date=s.getDate();
